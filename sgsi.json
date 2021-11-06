@@ -1,5 +1,5 @@
 {
-  "https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.1/cn/20211028094505/1e2b5a9e/update.zip",
+  "rom_url":"https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.1/cn/20211028094505/1e2b5a9e/update.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "flyme9.2.3.1_mz18X_CN.zip",
   "make_miui": false,
